@@ -50,6 +50,10 @@ A distribuição do aporte mensal foi focada na classe de **Fundos Imobiliários
 
 <img width="710" height="275" alt="Captura de tela 2026-10-05 190501" src="https://github.com/user-attachments/assets/a62617a6-1e4e-4e99-9b08-dad946750040" />
 
+<img width="709" height="558" alt="Captura de tela 2026-10-05 192313" src="https://github.com/user-attachments/assets/8a437c6f-8b56-4787-937a-e306b3bc123f" />
+
+<img width="709" height="299" alt="Captura de tela 2026-10-05 192326" src="https://github.com/user-attachments/assets/b6b71cf9-91a2-4b44-811c-bed22455accf" />
+
 ### Planilha
 [Ferramenta Dio Invest.xlsx](https://github.com/user-attachments/files/33080009/Ferramenta.Dio.Invest.xlsx)
 
