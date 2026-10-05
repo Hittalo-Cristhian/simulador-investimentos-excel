@@ -46,7 +46,8 @@ A distribuição do aporte mensal foi focada na classe de **Fundos Imobiliários
 ---
 ## 🖼️ 6. Evidências de Funcionamento (Prints)
 ### Simulação no Perfil CONSERVADOR
-![Perfil Conservador](<img width="718" height="579" alt="Captura de tela 2026-10-05 190443" src="https://github.com/user-attachments/assets/e307172b-60b1-4293-953d-2b6147734247" />
-)
-![DIO Invest Cenarios](<img width="710" height="275" alt="Captura de tela 2026-10-05 190501" src="https://github.com/user-attachments/assets/b9dd7da8-1dff-4e38-9619-28e70bf96b4e" />)
+<img width="718" height="579" alt="Captura de tela 2026-10-05 190443" src="https://github.com/user-attachments/assets/90723fa3-6250-442d-85e4-f19b60fa6cb1" />
+
+<img width="710" height="275" alt="Captura de tela 2026-10-05 190501" src="https://github.com/user-attachments/assets/a62617a6-1e4e-4e99-9b08-dad946750040" />
+
 
